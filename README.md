@@ -4,7 +4,7 @@ Projeto em p5.js que renderiza Bad Apple em codigo ASCII. Convertendo cada frame
 
 ![alt text](image.png)
 
-🔗 Acesse a [demo](https://imoutofbounds.github.io/Bad-Apple-ASCII/) aqui
+🔗 Acesse a [demo](https://leandrocustodio2002.github.io/Bad-Apple-ASCII/) aqui
 
 ✨ Tecnologias
 - p5.js
