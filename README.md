@@ -11,6 +11,10 @@ Este README serve como esqueleto para desenvolver um artigo científico robusto 
 
 ## 2. Introdução
 ### 2.1 Contexto e motivação
+A alguns anos, um video clip famoso na internet virou um grande movimento cultural, no qual pessoas ao redor do mundo buscavam recriar o clip
+das formas mais criativas possíveis, como em calculadoras virtuais, em jogos como o minecraft, ultilizando sistemas embarcados feitos com microcontroladores, animações em terminal de comando etc. O objetivo deste projeto é contribuir para este movimento, criando um projeto baseado no video, utilizando da arte em ASCII, na qual diversos artistas e programadores se expressão artisticamente por meio de desenhos feitos com caracteres disponíveis no computador.
+O American Standard Code for information Interchange, também conhecido como ASCII, surgiu por volta da decada de 1960, com o objetivo de padronizar a cominicação entre computadores
+
 - Cultura de remixes (Bad Apple!!) e demoscene.
 - Razões para explorar ASCII art como meio expressivo e educacional.
 - Gap: escassez de pipelines documentados que detalham aspectos técnicos e artísticos.
