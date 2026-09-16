@@ -14,7 +14,7 @@ function setup() {
   // estilo básico para monospace consistente
   container.elt.style.fontFamily = 'monospace';
   container.elt.style.lineHeight = '0.6';
-  container.elt.style.fontSize = '8px';
+  container.elt.style.fontSize = '15px';
 
   vid = createVideo(['badApple.mp4']);
   vid.hide();
